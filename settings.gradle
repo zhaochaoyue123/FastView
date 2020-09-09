@@ -1,0 +1,4 @@
+rootProject.name='FastView'
+include ':app'
+include ':oneview'
+include ':twoview'
